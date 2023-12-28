@@ -24,12 +24,11 @@
   <a href = "mailto:ftaveira.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 
-  ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+  
 
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=ftaveira-dev&repo=ftaveira-dev&theme=react)](https://github.com/ftaveira-dev/ftaveira-dev)
 
 
 
