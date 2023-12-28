@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg
+
 ## Francisco Taveira | Profile:
 
  <div>
