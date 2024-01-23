@@ -5,9 +5,9 @@
 ## Francisco Taveira | Profile:
 
  <div>
-   <a href="https://github.com/ftaveira-dev">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ftaveira-dev&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftaveira-dev&layout=compact&langs_count=6&theme=chartreuse-dark"/>
+   <a href="https://github.com/ftaveira-data">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ftaveira-data&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftaveira-data&layout=compact&langs_count=6&theme=chartreuse-dark"/>
 
 </div>
 <div style="display: inline_block"><br>
