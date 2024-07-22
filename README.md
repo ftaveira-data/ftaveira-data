@@ -14,10 +14,10 @@
  <img align="center" alt="Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
 
 </div>
- 
+
  <br>
  
-  ### Social media:
+ ### Social media:
  
 <div> 
   <a href="www.linkedin.com/in/francisco-a-taveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
