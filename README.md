@@ -4,14 +4,6 @@
 [![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/AbhishekSinghDhadwal?label=follow&style=social)](https://github.com/AbhishekSinghDhadwal)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
-
-### 📫 &nbsp; How to reach me:
-
-
-<a href="https://www.linkedin.com/in/francisco-a-taveira/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:ftaveira.dev@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-
-
 ### 👋 Hi there!
 
 ## 👨‍💻 Francisco Taveira | Data Engineer
@@ -65,17 +57,12 @@ Atualmente estudo para aprimorar minhas habilidades em Python, Spark e governan�
 
 ---
 
-## 🌐 Social Media
+### 📫 &nbsp; How to reach me:
 
-<div>
-  <a href="https://www.linkedin.com/in/francisco-a-taveira" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  
-  <a href="mailto:ftaveira.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</div>
+
+<a href="https://www.linkedin.com/in/francisco-a-taveira/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:ftaveira.dev@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+
 
 
 
