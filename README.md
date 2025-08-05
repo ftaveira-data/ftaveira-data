@@ -3,17 +3,6 @@
 ![profile count](https://komarev.com/ghpvc/?username=AbhishekSinghDhadwal&color=red)&nbsp;
 [![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/AbhishekSinghDhadwal?label=follow&style=social)](https://github.com/AbhishekSinghDhadwal)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
-### 👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp; I'm a software developer and researcher by profession, and a MS in Computer Science (Biomedical Informatics) student at Arizona State University! \
-💻 &nbsp;I'm currently performing research in the field of multimodal detection of human behavioral patterns and computational psychiatry.\
-🎓&nbsp;I graduated form Visvesvaraya National Institute of Technology, Nagpur (B.Tech, Computer Science and Engineering, Batch of 2021).\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Homomorphic Encryption, and Computer Vision.\
-✍️ &nbsp;In my free time, I play guitar, football and pursue writing as my hobbies.\
-💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
-✉️ &nbsp;You can email me at asinghdhadwal@gmail.com. I'll try to respond as soon as possible!\
-📄 &nbsp;You can check my [LinkedIn](https://www.linkedin.com/in/abhishek-singh-dhadwal/) for more details about work experience.
-
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -37,6 +26,17 @@
 ### 👋 Hi there!
 
 ## 👨‍💻 Francisco Taveira | Data Engineer
+
+### 👨🏻‍💻 &nbsp;About Me
+
+💡 &nbsp; I'm a Data Enginner and researcher by profession! \
+💻 &nbsp;I'm currently performing research in the field of Data and Artificial Intelligence.\
+🎓&nbsp;I graduated form Ouro Preto Federal University, Minas Gerais (Economy Science).\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence.\
+✍️ &nbsp;In my free time, I play video-games, watch football and Formula One, Driving Kart as my hobbies.\
+💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
+✉️ &nbsp;You can email me at ftaveira.dev@gmail.com. I'll try to respond as soon as possible!\
+📄 &nbsp;You can check my [LinkedIn](https://www.linkedin.com/in/francisco-a-taveira/) for more details about work experience.
 
 Sou engenheiro de dados com formação em Economia, apaixonado por transformar dados em decisões.  
 Tenho experiência com pipelines em nuvem (Azure), modelagem de dados, automações e projetos de analytics.  
