@@ -6,6 +6,8 @@
    <a href="https://github.com/ftaveira-data">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ftaveira-data&show_icons=true&theme=chartreuse-dark" />
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftaveira-data&layout=compact&langs_count=6&theme=chartreuse-dark"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ftaveira-data&theme=chartreuse-dark" />
+
 
 </div>
 <div style="display: inline_block"><br> 
