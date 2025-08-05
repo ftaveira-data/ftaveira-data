@@ -4,28 +4,6 @@
 
 ---
 
-### 👨🏻‍💻 About Me
-
-💡 I'm a Data Engineer and researcher by profession!  
-💻 Currently exploring Data Engineering and Artificial Intelligence solutions.  
-🎓 Graduated in Economic Science from the Federal University of Ouro Preto (MG, Brazil).  
-🌱 Continuously learning about Python, Spark, and data governance.  
-🎮 In my free time, I enjoy video games, football, Formula 1, and driving kart.  
-💬 Open to collaborate, consult, or discuss ideas related to data and AI.  
-✉️ Reach me at **ftaveira.dev@gmail.com** — I’ll reply as soon as possible!  
-📄 Connect with me on [LinkedIn](https://www.linkedin.com/in/francisco-a-taveira/) for more info.
-
----
-
-### 🇧🇷 Sobre mim (versão em português)
-
-Sou engenheiro de dados com formação em Economia, apaixonado por transformar dados em decisões.  
-Tenho experiência com pipelines em nuvem (Azure), modelagem de dados, automações e projetos de analytics.  
-Atualmente estudo para aprimorar minhas habilidades em Python, Spark e governança de dados.  
-🎯 Busco desafios que envolvam dados, eficiência e impacto real.
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -35,6 +13,19 @@ Atualmente estudo para aprimorar minhas habilidades em Python, Spark e governan�
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ftaveira-data&theme=chartreuse-dark" />
 
 </div>
+
+---
+
+### 👨🏻‍💻 About Me
+
+💡 I'm a Data Engineer with a background in Economics, passionate about turning data into decisions.  
+💻 I have experience building cloud-based pipelines (Azure), data modeling, automation, and analytics solutions.  
+🌱 Currently, I’m deepening my skills in Python, Spark, and data governance.  
+🎯 I'm looking for challenges that involve data, efficiency, and real impact.  
+🎮 In my free time, I enjoy playing video games, watching football and Formula 1, and driving go-karts.  
+💬 I'm open to collaboration, consulting, and discussions about data and artificial intelligence.  
+✉️ You can reach me at **ftaveira.dev@gmail.com** — I’ll get back to you as soon as possible.  
+📄 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/francisco-a-taveira/) for more details about my experience.
 
 ---
 
@@ -67,5 +58,5 @@ Atualmente estudo para aprimorar minhas habilidades em Python, Spark e governan�
 ---
 
 <p align="center">
-  💻 Feito com dedicação por <strong>Francisco Taveira</strong> • ✨
+  💻 Made with purpose and passion by <strong>Francisco Taveira</strong> • ✨
 </p>
