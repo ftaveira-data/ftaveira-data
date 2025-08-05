@@ -58,5 +58,5 @@
 ---
 
 <p align="center">
-  💻 Made with purpose and passion by <strong>Francisco Taveira</strong> • ✨
+  💻 Made by <strong>Francisco Taveira</strong> • ✨
 </p>
