@@ -10,7 +10,7 @@
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ftaveira-data&show_icons=true&theme=chartreuse-dark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftaveira-data&layout=compact&langs_count=6&theme=chartreuse-dark"/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=ftaveira-data&theme=chartreuse-dark" />
+  <img height="180em" src="https://user-images.githubusercontent.com/20955511/183303702-1bd5adbb-7277-4610-ad59-e5bdf20dd1de.png"/>
 
 
 </div>
