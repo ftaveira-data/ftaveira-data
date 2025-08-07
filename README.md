@@ -12,7 +12,8 @@
   
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftaveira-data&layout=compact&langs_count=6&theme=chartreuse-dark"/>
   
-  <img height="160em" src="https://streak-stats.demolab.com?user=ftaveira-data&theme=chartreuse-dark" />
+  <img height="160em" src="https://streak-stats.demolab.com?user=ftaveira-data&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D" />
+
 
 </div>
 
