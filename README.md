@@ -7,12 +7,10 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ftaveira-data&show_icons=true&theme=chartreuse-dark&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftaveira-data&layout=compact&langs_count=6&theme=chartreuse-dark&hide_border=true" />
-  <img height="150" src="https://streak-stats.demolab.com?user=ftaveira-data&theme=chartreuse-dark&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ftaveira-data&show_icons=true&theme=chartreuse-dark&hide_border=true&v=2" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftaveira-data&layout=compact&langs_count=6&theme=chartreuse-dark&hide_border=true&v=2" />
+  <img height="150" src="https://streak-stats.demolab.com?user=ftaveira-data&theme=chartreuse-dark&hide_border=true&v=2" />
 </div>
-
-
 
 ---
 
